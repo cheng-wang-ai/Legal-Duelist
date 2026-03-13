@@ -50,3 +50,7 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# debug files
+test_court_listener.py
+debug_pipelines.py
