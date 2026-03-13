@@ -1,0 +1,122 @@
+[
+  {
+    "citation": "Cal. Civ. Code § 1714",
+    "code": "Civil Code",
+    "title": "General Negligence",
+    "verbatim_text": "Everyone is responsible, not only for the result of his or her willful acts, but also for an injury occasioned to another by his or her want of ordinary care or skill in the management of his or her property or person, except so far as the latter has, willfully or by want of ordinary care, brought the injury upon himself or herself.",
+    "scope": "Foundational negligence statute. Plaintiff must establish duty, breach, causation, and damages.",
+    "keywords": ["negligence", "injury", "care", "accident", "harm", "damage", "careless", "reckless", "duty", "breach", "slip", "fall", "crash", "collision"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 3294",
+    "code": "Civil Code",
+    "title": "Punitive Damages",
+    "verbatim_text": "In an action for the breach of an obligation not arising from contract, where it is proven by clear and convincing evidence that the defendant has been guilty of oppression, fraud, or malice, the plaintiff, in addition to the actual damages, may recover damages for the sake of example and by way of punishing the defendant.",
+    "scope": "Authorizes punitive damages for oppression, fraud, or malice. Requires clear and convincing evidence of egregious conduct.",
+    "keywords": ["punitive", "malice", "fraud", "oppression", "willful", "intentional", "egregious", "bad faith", "deliberate", "exemplary", "reckless disregard"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 1572",
+    "code": "Civil Code",
+    "title": "Actual Fraud",
+    "verbatim_text": "Actual fraud, within the meaning of this Chapter, consists in any of the following acts, committed by a party to the contract, or with his connivance, with intent to deceive another party thereto, or to induce him to enter into the contract: 1. The suggestion, as a fact, of that which is not true, by one who does not believe it to be true; 2. The positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true; 3. The suppression of that which is true, by one having knowledge or belief of the fact; 4. A promise made without any intention of performing it.",
+    "scope": "Defines actual fraud including misrepresentation, suppression of truth, and false promises.",
+    "keywords": ["fraud", "misrepresentation", "false", "lie", "deceive", "deception", "mislead", "concealment", "omission", "false statement", "assertion"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 3333",
+    "code": "Civil Code",
+    "title": "Measure of Tort Damages",
+    "verbatim_text": "For the breach of an obligation not arising from contract, the measure of damages, except where otherwise expressly provided by this code, is the amount which will compensate for all the detriment proximately caused thereby, whether it could have been anticipated or not.",
+    "scope": "Sets the measure of damages in tort actions. Covers all detriment proximately caused, including medical expenses, lost wages, and pain and suffering.",
+    "keywords": ["damages", "compensation", "loss", "detriment", "medical", "expenses", "lost wages", "pain", "suffering", "economic", "proximate cause"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 1750",
+    "code": "Civil Code",
+    "title": "Consumer Legal Remedies Act (CLRA) — Legislative Intent",
+    "verbatim_text": "This title shall be liberally construed and applied to promote its underlying purposes, which are to protect consumers against unfair and deceptive business practices and to provide efficient and economical procedures to secure such protection.",
+    "scope": "Governs unfair and deceptive practices in consumer transactions. Applies to defective products, false advertising, and deceptive sales practices.",
+    "keywords": ["consumer", "product", "sale", "goods", "services", "deceptive", "unfair", "defective", "warranty", "purchase", "merchant", "seller", "advertising"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 1792",
+    "code": "Civil Code",
+    "title": "Implied Warranty of Merchantability",
+    "verbatim_text": "Unless expressly excluded or modified, a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a merchant with respect to goods of that kind. Goods to be merchantable must be at least such as: (a) Pass without objection in the trade under the contract description; and (b) Are fit for the ordinary purposes for which such goods are used.",
+    "scope": "Implies a warranty of merchantability for goods sold by a merchant. Applies to product defect and product liability claims.",
+    "keywords": ["product", "defective", "merchantable", "goods", "manufacturer", "vehicle", "software", "hardware", "autonomous", "malfunction", "warranty", "fitness"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 2338",
+    "code": "Civil Code",
+    "title": "Principal Liability for Agent (Respondeat Superior)",
+    "verbatim_text": "Unless required by or under the authority of law to employ that particular agent, a principal is responsible to third persons for the negligence of his agent in the transaction of the business of the agency, including wrongful acts committed by such agent in and as part of the transaction of such business, and for his willful omission to fulfill the obligations of the principal.",
+    "scope": "Holds principals liable for agent negligence. Applies to employer-employee liability and corporate liability for employee conduct.",
+    "keywords": ["employer", "employee", "agent", "principal", "respondeat superior", "vicarious", "company", "business", "staff", "worker", "corporate", "manufacturer", "operator"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 1668",
+    "code": "Civil Code",
+    "title": "Contracts Exempting Negligence — Void Against Public Policy",
+    "verbatim_text": "All contracts which have for their object, directly or indirectly, to exempt anyone from responsibility for his own fraud, or willful injury to the person or property of another, or violation of law, whether willful or negligent, are against the policy of the law.",
+    "scope": "Voids contractual clauses that attempt to exempt a party from liability for negligence or fraud. Applies to waivers, disclaimers, and indemnity clauses.",
+    "keywords": ["waiver", "release", "contract", "liability clause", "indemnity", "exemption", "disclaimer", "signed", "agreement", "terms", "terms of service", "EULA", "user agreement"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 3294(c)(1)",
+    "code": "Civil Code",
+    "title": "Malice — Definition for Punitive Damages",
+    "verbatim_text": "'Malice' means conduct which is intended by the defendant to cause injury to the plaintiff or despicable conduct which is carried on by the defendant with a willful and conscious disregard of the rights or safety of others.",
+    "scope": "Defines malice in the context of punitive damages. Key for establishing entitlement to exemplary damages in cases of egregious safety failures.",
+    "keywords": ["malice", "despicable", "conscious disregard", "safety", "willful", "punitive", "egregious", "reckless", "intentional harm", "disregard"]
+  },
+  {
+    "citation": "Cal. Civ. Code § 3479",
+    "code": "Civil Code",
+    "title": "Nuisance — Definition",
+    "verbatim_text": "Anything which is injurious to health, including, but not limited to, the illegal sale of controlled substances, or is indecent or offensive to the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life or property, or unlawfully obstructs the free passage or use, in the customary manner, of any navigable lake, or river, bay, stream, canal, or basin, or any public park, square, street, or highway, is a nuisance.",
+    "scope": "Defines nuisance broadly. Applies to health hazards, environmental contamination, obstruction of property use, and interference with public rights of way.",
+    "keywords": ["nuisance", "noise", "pollution", "neighbor", "obstruction", "health", "offensive", "property use", "interference", "environment", "toxic", "road", "highway", "blocked"]
+  },
+  {
+    "citation": "Cal. Veh. Code § 17150",
+    "code": "Vehicle Code",
+    "title": "Owner's Liability for Permissive Use",
+    "verbatim_text": "Every owner of a motor vehicle is liable and responsible for death or injury to person or property resulting from a negligent or wrongful act or omission in the operation of the motor vehicle, in the business of the owner or otherwise, by any person using or operating the same with the permission, express or implied, of the owner.",
+    "scope": "Imposes liability on vehicle owners for negligent operation by any permissive user. Applies to fleet vehicles, loaned vehicles, and autonomous vehicle deployments with operator permission.",
+    "keywords": ["vehicle owner", "liability", "permissive use", "motor vehicle", "car", "truck", "fleet", "autonomous", "operator", "driving", "road", "accident", "crash"]
+  },
+  {
+    "citation": "Cal. Veh. Code § 22350",
+    "code": "Vehicle Code",
+    "title": "Basic Speed Law",
+    "verbatim_text": "No person shall drive a vehicle upon a highway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property.",
+    "scope": "Establishes the basic speed law. Any speed that endangers safety is unlawful regardless of posted limits. Applies to all vehicles, including autonomous vehicles.",
+    "keywords": ["speed", "speeding", "fast", "highway", "road", "driving", "vehicle", "weather", "visibility", "traffic", "safety", "autonomous", "crash", "collision", "reckless driving"]
+  },
+  {
+    "citation": "Cal. Veh. Code § 38750",
+    "code": "Vehicle Code",
+    "title": "Autonomous Vehicles — Definitions and Authorization",
+    "verbatim_text": "(a) For purposes of this chapter, the following terms have the following meanings: (b)(1) 'Autonomous technology' means technology that has the capability to drive a vehicle without the active physical control or monitoring by a human operator. (c)(1) 'Autonomous vehicle' means any vehicle equipped with autonomous technology that has been integrated into that vehicle. (2) 'Autonomous vehicle' does not include a vehicle that is equipped with one or more collision avoidance systems, including, but not limited to, electronic blind spot assistance, automated emergency braking systems, park assist, adaptive cruise control, lane keep assist, lane departure warning, traffic jam and queuing assist, or other similar systems that enhance safety or provide driver assistance.",
+    "scope": "Foundational California statute authorizing autonomous vehicles. Defines 'autonomous technology' and 'autonomous vehicle.' Central to any claim involving AV operation.",
+    "keywords": ["autonomous", "autonomous vehicle", "self-driving", "AV", "driverless", "autonomous technology", "operator", "human control", "AI driving", "robotaxi", "lidar", "sensor"]
+  },
+  {
+    "citation": "Cal. Veh. Code § 38755",
+    "code": "Vehicle Code",
+    "title": "Autonomous Vehicles — Manufacturer Certification Requirements",
+    "verbatim_text": "The department shall develop and adopt regulations setting forth requirements for the testing and use on public roads of autonomous vehicles by manufacturers of those vehicles, including, but not limited to, all of the following: (a) A requirement that a manufacturer certify that the autonomous vehicle meets all applicable federal and state safety standards and performance requirements for motor vehicles; (b) A requirement that a manufacturer provide evidence that the autonomous vehicle can be operated safely; (c) A requirement that, upon failure of the autonomous technology, the autonomous vehicle shall be capable of coming to a controlled stop.",
+    "scope": "Requires AV manufacturers to certify federal/state safety compliance, demonstrate safe operation, and ensure fail-safe controlled stops. Key in manufacturer liability claims.",
+    "keywords": ["autonomous", "manufacturer", "certification", "safety standard", "AV", "testing", "deployment", "fail-safe", "stop", "federal standard", "NHTSA", "self-driving", "compliance"]
+  },
+  {
+    "citation": "Cal. Veh. Code § 17151",
+    "code": "Vehicle Code",
+    "title": "Limitation on Owner's Liability",
+    "verbatim_text": "The liability of an owner, bailee of an owner, or personal representative of a decedent imposed by this chapter and not arising through the relationship of principal and agent or master and servant is limited to the amount of fifteen thousand dollars ($15,000) for the death of or injury to one person in any one accident and, subject to the limit as to one person, to the amount of thirty thousand dollars ($30,000) for the death of or injury to more than one person in any one accident and to the amount of five thousand dollars ($5,000) for damage to property of others in any one accident.",
+    "scope": "Caps owner liability under permissive-use theory at statutory amounts unless principal-agent or employer-employee relationship exists. Important for calculating maximum recovery against vehicle owner.",
+    "keywords": ["liability limit", "owner", "damages cap", "permissive use", "vehicle", "$15,000", "$30,000", "injury", "death", "property damage", "limitation", "recovery"]
+  }
+]

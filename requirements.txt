@@ -1,0 +1,10 @@
+langgraph
+langchain-anthropic
+langchain-openai
+langchain-google-genai
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+rich
+streamlit
